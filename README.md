@@ -1,5 +1,7 @@
 ![blocklist](https://user-images.githubusercontent.com/33715405/73519508-a67e9580-4444-11ea-8e4a-41f0ff7deadd.png)
 
+Adapted from [https://github.com/sunadarake/Personal_Blocklist](https://github.com/sunadarake/Personal_Blocklist) by sk5s
+
 Personal Blocklist(not by Google) is an alternative chrome extesions of Personal Blocklist(by Google).
 
 the extension has some functions below.
